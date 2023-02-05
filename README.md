@@ -1,1 +1,1 @@
-# pip-not-recognized
+# pip not recognized
